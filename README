@@ -1,0 +1,4 @@
+- How to Run
+  first download main.sh at your linux host
+  Next run: vim main.sh
+     type:  :set fileformat=unix
