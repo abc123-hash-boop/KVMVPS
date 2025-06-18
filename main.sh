@@ -16,7 +16,7 @@ elif [ $num == 2 ] ; then
 elif [ $num == 3 ] ; then
     url="https://cdimage.ubuntu.com/lubuntu/releases/24.04/release/lubuntu-24.04-desktop-amd64.iso"
 elif [ $num == 4 ] ; then
-    url="https://releases.ubuntu.com/noble/ubuntu-24.04-desktop-amd64.iso"
+    url="https://releases.ubuntu.com/plucky/ubuntu-25.04-desktop-amd64.iso"
 elif [ $num == 5 ] ; then
     url="https://go.microsoft.com/fwlink/p/?LinkID=2195404&clcid=0x409&culture=en-us&country=US"
 elif [ $num == 6 ] ; then
